@@ -1,2 +1,1 @@
-# clase10
-mi trabajo
+# Trex_Etapa_0.5
